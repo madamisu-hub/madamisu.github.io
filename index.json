@@ -1,0 +1,305 @@
+{
+  "events": [
+    {
+      "id": "1773930941235",
+      "time": "00:00",
+      "character": "全体",
+      "location": "",
+      "action": "【注意】ツールの使用上０時始まりですが、シナリオ内では夕方～深夜という時間経過です",
+      "details": "",
+      "isImportant": true,
+      "createdAt": 1773930941235
+    },
+    {
+      "id": "1773930362712",
+      "time": "00:10",
+      "character": "探偵【時田】",
+      "location": "メイド【水上】の部屋",
+      "action": "にわか雨の外を眺めていると、門の外から屋敷へ走ってくる倉光となぜか外にいる上総を見つける",
+      "details": "",
+      "isImportant": false,
+      "createdAt": 1773930362712
+    },
+    {
+      "id": "1773931343085",
+      "time": "00:45",
+      "character": "探偵【時田】",
+      "location": "探偵【時田】の部屋",
+      "action": "水上が帰ってこないので自分の部屋に戻る・ワインを零す？(泥酔中)",
+      "details": "",
+      "isImportant": false,
+      "createdAt": 1773931343085
+    },
+    {
+      "id": "1773971794514",
+      "time": "00:45",
+      "character": "メイド【水上】",
+      "location": "キッチン",
+      "action": "上の階でバタバタ音が鳴っているのを聞く",
+      "details": "",
+      "isImportant": false,
+      "createdAt": 1773971794514
+    },
+    {
+      "id": "1773971906167",
+      "time": "00:50",
+      "character": "メイド【水上】",
+      "location": "キッチン",
+      "action": "蛇口の水を出す音が大きいので執事長に変えてもらおうと考える",
+      "details": "",
+      "isImportant": false,
+      "createdAt": 1773971906167
+    },
+    {
+      "id": "1773931479748",
+      "time": "01:00",
+      "character": "探偵【時田】",
+      "location": "探偵【時田】の部屋",
+      "action": "遠くで何かが落ちる音が聞こえる",
+      "details": "",
+      "isImportant": false,
+      "createdAt": 1773931479748
+    },
+    {
+      "id": "1773931513327",
+      "time": "01:30",
+      "character": "探偵【時田】",
+      "location": "探偵【時田】の部屋",
+      "action": "悪酔いする",
+      "details": "",
+      "isImportant": false,
+      "createdAt": 1773931513327
+    },
+    {
+      "id": "1773972217807",
+      "time": "01:30",
+      "character": "メイド【水上】",
+      "location": "メイド【水上】の部屋",
+      "action": "部屋に戻ると荒らされ、赤い液体が散らばっているのを発見・パニックの中自分の部屋下に見慣れない物体を見つけ急いで向かう",
+      "details": "",
+      "isImportant": false,
+      "createdAt": 1773972217807
+    },
+    {
+      "id": "1773931735347",
+      "time": "01:55",
+      "character": "探偵【時田】",
+      "location": "探偵【時田】の部屋",
+      "action": "窓をあけると屋敷入口に岩&その近くに人がいるのを目撃、外に出る",
+      "details": "",
+      "isImportant": false,
+      "createdAt": 1773931735347
+    },
+    {
+      "id": "1773972415411",
+      "time": "01:55",
+      "character": "メイド【水上】",
+      "location": "屋敷入口",
+      "action": "岩下にいる死体の顔をハンカチで拭い、博士だと気づく・時田が来たので岩の陰に隠れる",
+      "details": "",
+      "isImportant": false,
+      "createdAt": 1773972415411
+    },
+    {
+      "id": "1773932021035",
+      "time": "02:00",
+      "character": "探偵【時田】",
+      "location": "屋敷入口",
+      "action": "岩の下に坂上源三の死体があるのを発見、皆を呼び出す",
+      "details": "",
+      "isImportant": true,
+      "createdAt": 1773932021035
+    },
+    {
+      "id": "1773932223705",
+      "time": "17:00",
+      "character": "メイド【水上】",
+      "location": "屋敷",
+      "action": "屋敷の風呂が壊れたので執事長に買い出しに行ってもらう",
+      "details": "",
+      "isImportant": false,
+      "createdAt": 1773932223705
+    },
+    {
+      "id": "1773928981704",
+      "time": "18:00",
+      "character": "探偵【時田】",
+      "location": "機会島",
+      "action": "機会島に到着、水上をデートに誘おうとするが断られる",
+      "details": "",
+      "isImportant": false,
+      "createdAt": 1773928981704
+    },
+    {
+      "id": "1773932447201",
+      "time": "18:30",
+      "character": "メイド【水上】",
+      "location": "キッチン",
+      "action": "ワインの在庫が残り２本なのを確認、１本だけ出すことにする",
+      "details": "",
+      "isImportant": false,
+      "createdAt": 1773932447201
+    },
+    {
+      "id": "1773929262591",
+      "time": "19:00",
+      "character": "全体",
+      "location": "客間",
+      "action": "食事会が始まる",
+      "details": "",
+      "isImportant": false,
+      "createdAt": 1773929262591
+    },
+    {
+      "id": "1773932748230",
+      "time": "19:00",
+      "character": "メイド【水上】",
+      "location": "キッチン",
+      "action": "皆に坂上博士が明日の午後に挨拶をすること・お風呂が壊れていることを伝える",
+      "details": "",
+      "isImportant": false,
+      "createdAt": 1773932748230
+    },
+    {
+      "id": "1773932865750",
+      "time": "20:00",
+      "character": "メイド【水上】",
+      "location": "客間",
+      "action": "上総が部屋に戻るのを確認",
+      "details": "",
+      "isImportant": false,
+      "createdAt": 1773932865750
+    },
+    {
+      "id": "1773929325140",
+      "time": "20:30",
+      "character": "探偵【時田】",
+      "location": "キッチン",
+      "action": "ワインを盗む",
+      "details": "",
+      "isImportant": false,
+      "createdAt": 1773929325140
+    },
+    {
+      "id": "1773929459855",
+      "time": "21:00",
+      "character": "探偵【時田】",
+      "location": "研究室前ドア",
+      "action": "坂上教授に挨拶しようとするが断られる",
+      "details": "",
+      "isImportant": false,
+      "createdAt": 1773929459855
+    },
+    {
+      "id": "1773933028296",
+      "time": "21:00",
+      "character": "メイド【水上】",
+      "location": "キッチン",
+      "action": "倉光と後片づけをする・ワインが無くなっているのを確認",
+      "details": "",
+      "isImportant": false,
+      "createdAt": 1773933028296
+    },
+    {
+      "id": "1773933287230",
+      "time": "21:40",
+      "character": "メイド【水上】",
+      "location": "メイド【水上】の部屋",
+      "action": "後片付けを終え、キッチン灯りを消す・廊下で古ぼけた日誌を回収し部屋に置いて坂上の研究室に向かう",
+      "details": "",
+      "isImportant": false,
+      "createdAt": 1773933287230
+    },
+    {
+      "id": "1773971481856",
+      "time": "21:55",
+      "character": "メイド【水上】",
+      "location": "研究室前",
+      "action": "博士と誰かの言い争っていたので隠れて待つ",
+      "details": "",
+      "isImportant": false,
+      "createdAt": 1773971481856
+    },
+    {
+      "id": "1773929600159",
+      "time": "22:00",
+      "character": "探偵【時田】",
+      "location": "メイド【水上】の部屋",
+      "action": "部屋から一階キッチンの灯りが落ちるのを見る・水上の部屋をピッキングして中に侵入し待機する",
+      "details": "",
+      "isImportant": false,
+      "createdAt": 1773929600159
+    },
+    {
+      "id": "1773929996905",
+      "time": "22:45",
+      "character": "探偵【時田】",
+      "location": "メイド【水上】の部屋",
+      "action": "しびれを切らして部屋を漁り日記を入手する・盗んだ赤ワインを飲み始める",
+      "details": "",
+      "isImportant": false,
+      "createdAt": 1773929996905
+    },
+    {
+      "id": "1773971572417",
+      "time": "23:00",
+      "character": "メイド【水上】",
+      "location": "研究室前",
+      "action": "博士と言い争っていた上総に詰められるが誤魔化す",
+      "details": "",
+      "isImportant": false,
+      "createdAt": 1773971572417
+    },
+    {
+      "id": "1773971727967",
+      "time": "23:10",
+      "character": "メイド【水上】",
+      "location": "研究室前",
+      "action": "中を覗くと不機嫌な様子の博士と目が合う・今夜情報を盗むことをあきらめる",
+      "details": "",
+      "isImportant": false,
+      "createdAt": 1773971727967
+    },
+    {
+      "id": "1773930154981",
+      "time": "23:30",
+      "character": "探偵【時田】",
+      "location": "メイド【水上】の部屋",
+      "action": "男性用下着を見つけ、怒りのあまり壁を強く殴る",
+      "details": "",
+      "isImportant": false,
+      "createdAt": 1773930154981
+    }
+  ],
+  "characters": [
+    {
+      "name": "探偵【時田】",
+      "color": "bg-red-500"
+    },
+    {
+      "name": "メイド【水上】",
+      "color": "bg-blue-500"
+    },
+    {
+      "name": "軍人【安本】",
+      "color": "bg-yellow-500"
+    },
+    {
+      "name": "バーテン【倉光】",
+      "color": "bg-orange-500"
+    },
+    {
+      "name": "民俗学者【上総】",
+      "color": "bg-green-500"
+    },
+    {
+      "name": "元舞台女優【汀目】",
+      "color": "bg-purple-500"
+    },
+    {
+      "name": "全体",
+      "color": "bg-gray-500"
+    }
+  ],
+  "exportedAt": "2026-03-20T03:59:47.320Z"
+}
